@@ -1,0 +1,18 @@
+Tomato : 1
+Banana : 1
+Status : Delivered
+Order_Date : 12:09 AM 05-04-2023
+Delivered_Date:12:12 AM 05-04-2023
+******************
+Tomato : 1
+Banana : 1
+Status : Delivered
+Order_Date : 09:25 PM 05-04-2023
+Delivered_Date:09:27 PM 05-04-2023
+******************
+Tomato : 1
+Banana : 1
+Status : Delivered
+Order_Date : 09:27 PM 05-04-2023
+Delivered_Date:09:28 PM 05-04-2023
+******************
